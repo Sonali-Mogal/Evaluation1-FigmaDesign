@@ -1,0 +1,145 @@
+body{
+    background-color: black;
+}
+#main-div{
+    width:1512px;
+    
+    margin: auto;
+    background-color: aliceblue;
+}
+.header{
+    width:1512px;
+    height:588px;
+    background: url("./images/Rectangle 18.png")no-repeat;
+    position:relative;
+    display:flex;
+    justify-content: space-between;
+   
+
+}
+.header .logo{
+    display:flex;
+}
+.header .logo>img{
+    width: 106px;
+    height: 117px;
+    top: 21px;
+    left: -513px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.header .logo >span{
+    width: 122px;
+    height: 32px;
+    top: 50px;
+    left: -403px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    background: #FFFFFF;
+
+
+
+}
+.header .button{
+    
+    width: 127px;
+    height: 38px;
+    top: 48px;
+    left: 695px;
+    padding: 10px 16px 10px 16px;
+    gap: 6.18px;
+    border-radius: 15.44px 0px 0px 0px;
+    opacity: 0px;
+
+    background: linear-gradient(93.73deg, #ED0137 20.19%, #F05733 88.3%);
+
+}
+.header .button > button{
+    width: 95px;
+    height: 18px;
+    top: 10px;
+    left: 16px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: left;
+    background: #FFFFFF;
+
+
+
+}
+.header .navbar{
+    width: Fixed (583px)px;
+    top: 40px;
+    left: -103px;
+    padding: 16px 24px 16px 24px;
+    gap: 24px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+
+    
+}
+.header .navbar span{
+    width: 53px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: ZCOOL KuaiLe;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color:#FFFFFF
+
+}
+.content{
+
+    width: Fixed (1,512px)px;
+    height: Fixed (3,300px)px;
+    top: -6px;
+    left: -601px;
+    gap: 0px;
+    opacity: 0px;
+    background: #191818;
+    display:flex;
+
+
+    
+}
+.content img{
+
+background-size: cover;
+width: 795px;
+height: 795px;
+top: 505px;
+left: 122px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.content >div>h1{
+width: 389px;
+height: 52px;
+top: 671px;
+left: -438px;
+gap: 0px;
+opacity: 0px;
+font-family: Shojumaru;
+font-size: 44px;
+font-weight: 400;
+line-height: 52.36px;
+text-align: left;
+color: #ED0137;
+
+}
