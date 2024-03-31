@@ -116,7 +116,7 @@ body{
 
     
 }
-.content img{
+.content  img{
 
 background-size: cover;
 width: 795px;
@@ -159,4 +159,27 @@ opacity: 0px;
         text-align: left;
         color: #FFFCFD;
     
+    }
+    .road-map{
+        
+        background: #191818;
+        background: url("./images/Rectangle 21.png")no-repeat;
+        background-size: cover;
+        width:100%
+        opacity: 0.10;
+
+        width: 1512px;
+        height: 716px;
+        gap: 0px;
+        opacity: 0.71px;
+        
+
+    }
+    .road-map h1{
+        font-family: Shojumaru;
+font-size: 44px;
+font-weight: 400;
+line-height: 52.36px;
+text-align: center;
+color:#ED0137
     }
